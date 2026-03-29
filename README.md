@@ -1,36 +1,33 @@
-# ✈️ SKY HUB | The Future of Aviation Engineering
+# 🌍 Open Sky | Global Aviation Directory
 
-[![Status](https://img.shields.io/badge/Status-Coming--Soon-00f2ff?style=for-the-badge)]()
-[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)]()
-[![Domain](https://img.shields.io/badge/Domain-sky.to.com.ly-midnightblue?style=for-the-badge)](https://sky.to.com.ly)
+[![Status](https://img.shields.io/badge/Status-Open--Source-green?style=for-the-badge)]()
+[![Platform](https://img.shields.io/badge/Platform-Web--Tool-blue?style=for-the-badge)]()
+[![Domain](https://img.shields.io/badge/Domain-sky.to.com.ly-lightgrey?style=for-the-badge)](https://sky.to.com.ly)
 
-> **"Apex Performance, Infinite Scale, Zero Latency."**
+> **"Global Flight Infrastructure at Your Fingertips."**
 
-**SKY HUB** هو منصة هندسية مستقبلية تهدف لإعادة تعريف التفاعل مع بيانات الطيران والمطارات في ليبيا والعالم. تم بناء المشروع ليكون واجهة ذكية (v1.0) تعتمد على السرعة، الخصوصية، والتصميم المستقبلي (Futuristic UI).
-
----
-
-## 🚀 المميزات التقنية (Core Features)
-
-* **Aero-Mapping Engine:** نظام خرائط متطور يعتمد على Leaflet و Overpass API لجلب بيانات المطارات لحظياً.
-* **Futuristic UI/UX:** واجهة مستخدم تعتمد على نظام الـ Glassmorphism (التصميم الزجاجي) مع سمة ليلية كاملة (Dark Mode).
-* **Edge Performance:** مُحسّن للعمل خلف Cloudflare لضمان أقل زمن استجابة (Latency) في الشبكة الليبية.
-* **Minimalist Codebase:** ملف واحد (SPA) يجمع بين HTML5, CSS3 (Modern Grid/Flex), و Vanilla JavaScript.
+**Open Sky** هو مشروع مفتوح المصدر (Open Source) يوفر دليلاً تفاعلياً للمطارات والمرافق الملاحية حول العالم. يعتمد المشروع على تقنيات الخرائط المفتوحة لتوفير وصول سريع وسهل لبيانات المطارات والمسافات والخدمات اللوجستية للمسافرين والمطورين.
 
 ---
 
-## 🛠 البناء البرمجي (Tech Stack)
+## 🛠 المواصفات التقنية (Technical Specs)
 
-- **Frontend:** HTML5, CSS3 (Custom Neon Glow Animations), JavaScript (ES6+).
-- **Mapping:** Leaflet.js with Dark Mode Tile Layers.
-- **Data Source:** OpenStreetMap & Overpass API.
-- **Infrastructure:** GitHub Pages + Cloudflare DNS (Orange Cloud Enabled).
+* **Global Navigation:** نظام استكشاف عالمي يدعم اختيار (الدولة/المدينة) للانتقال اللحظي.
+* **Data Engine:** يعتمد على Overpass API لاسترجاع بيانات حقيقية من OpenStreetMap.
+* **Performance:** مُحسّن للعمل مع تقنيات التخزين المؤقت (Caching) لضمان السرعة واستهلاك أقل للبيانات.
+* **Privacy-First:** أداة مدنية بالكامل، لا تقوم بتخزين بيانات المستخدمين وتحترم الخصوصية.
 
 ---
 
-## 📂 هيكلية المشروع
+## 📂 الهيكل البرمجي
+- **Frontend:** HTML5 / Tailwind CSS / Glassmorphism UI.
+- **Maps:** Leaflet.js (Dark Mode).
+- **Hosting:** GitHub Pages & Cloudflare Edge.
 
-```text
-├── index.html          # واجهة المستخدم والمحرك البرمجي (الملف الرئيسي)
-├── assets/             # الصور والأيقونات (إن وجدت)
-└── README.md           # توثيق المشروع
+---
+
+## 👨‍💻 المساهمة والتطوير
+تم تصميم وتطوير الهيكلية بواسطة **المهندس سيف الدين** كجزء من مبادرة الأدوات الرقمية المفتوحة.
+
+---
+© 2026 Open Sky Project. Distributed under MIT License.
